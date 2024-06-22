@@ -1,0 +1,21 @@
+# Compiled class file
+bin/
+
+# VSCode specific files
+.vscode/
+
+# Dependency directories
+lib/
+
+# IDE files
+*.iml
+.idea/
+
+# Compiled Java binary
+*.class
+
+# Log files
+*.log
+
+# API keys and sensitive information
+config.properties
